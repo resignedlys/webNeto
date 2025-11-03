@@ -1,3 +1,3 @@
 - [首页](/)
-- [介绍](/docs/intro.md)
-- [OnePanel](/docs/intro.md)
+- [介绍](docs/intro.md)
+- [OnePanel](docs/intro.md)
